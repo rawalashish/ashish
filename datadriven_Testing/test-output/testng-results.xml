@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11501" started-at="2019-07-18T11:31:19Z" finished-at="2019-07-18T11:31:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11501" started-at="2019-07-18T11:31:19Z" finished-at="2019-07-18T11:31:30Z">
+      <class name="datadriven_Testing.ApacheTest">
+        <test-method status="PASS" signature="Test()[pri:0, instance:datadriven_Testing.ApacheTest@475530b9]" name="Test" duration-ms="11478" started-at="2019-07-18T17:01:19Z" finished-at="2019-07-18T17:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- datadriven_Testing.ApacheTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

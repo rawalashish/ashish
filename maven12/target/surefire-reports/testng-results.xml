@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2019-06-22T03:52:46Z" finished-at="2019-06-22T03:52:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2019-06-22T03:52:46Z" finished-at="2019-06-22T03:52:46Z">
+      <class name="maven123.Test1234">
+        <test-method status="PASS" signature="m1()[pri:0, instance:maven123.Test1234@38082d64]" name="m1" duration-ms="11" started-at="2019-06-22T09:22:46Z" finished-at="2019-06-22T09:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- maven123.Test1234 -->
+      <class name="maven123.Test12345">
+        <test-method status="PASS" signature="ask()[pri:0, instance:maven123.Test12345@26ba2a48]" name="ask" duration-ms="0" started-at="2019-06-22T09:22:46Z" finished-at="2019-06-22T09:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ask -->
+      </class> <!-- maven123.Test12345 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.tests.GetApiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.064 s <<< FAILURE! - in com.qa.tests.GetApiTest
+getapiwithoutheader(com.qa.tests.GetApiTest)  Time elapsed: 1.794 s  <<< FAILURE!
+org.apache.http.client.ClientProtocolException
+	at com.qa.tests.GetApiTest.getapiwithoutheader(GetApiTest.java:47)
+Caused by: org.apache.http.ProtocolException: Target host is not specified
+	at com.qa.tests.GetApiTest.getapiwithoutheader(GetApiTest.java:47)
+
